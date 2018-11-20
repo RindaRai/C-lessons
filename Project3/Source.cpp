@@ -5,7 +5,39 @@
 int main()
 {
 	setlocale(LC_ALL, "");
-	int m, v;
+
+
+	/*int x, y, s;
+	printf("Введите первую переменную:");
+	scanf_s("%d", &x);
+	printf("Введите вторую переменную:");
+	scanf_s("%d", &y);
+	s = x;
+	x = y;
+	y = s;
+	//x=x+y;
+	//y=x-y;
+	//x=x-y;
+	printf("Новый порядок: %d %d\n", x, y);*/
+
+	/*int x, y, s;
+	printf("Введите возраст Тани:");
+	scanf_s("%d", &x);
+	printf("Введите возраст Мити:");
+	scanf_s("%d", &y);
+	s = (x + y) / 2;
+	printf("Средний возраст: %d\n", s);
+	printf("Возраст Тани различается от среднего на: %d\n", abs(s - x));
+	printf("Возраст Мити различается от среднего на: %d\n", abs(s - y));*/
+
+	/*int m, v,s;
+	printf("Введите массу:");
+	scanf_s("%d", &m);
+	printf("Введите объем:");
+	scanf_s("%d", &v);
+	s = m / v;
+	printf("Плотность:%d", s);
+*/
 
 	/*int z, a, b, d, l;
 	printf("введите a:");
